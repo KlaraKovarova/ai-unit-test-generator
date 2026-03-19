@@ -59,6 +59,14 @@ export default function Home() {
           >
             ☕ Support this project
           </a>
+          <a
+            href="https://www.binance.com/register?ref=12852887"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-md border border-yellow-500/30 text-yellow-500 text-xs font-medium hover:bg-yellow-500/10 transition-colors"
+          >
+            🪙 Try Binance
+          </a>
         </div>
       </footer>
     </main>
