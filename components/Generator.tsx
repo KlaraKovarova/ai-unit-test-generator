@@ -378,6 +378,14 @@ export default function Generator() {
             >
               CodeReview·AI — instant code review
             </a>
+            <a
+              href="https://commit-msg-gen.vercel.app"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-sm text-sky-400 hover:text-sky-300 bg-sky-950/50 border border-sky-800/50 px-3 py-1.5 rounded-lg transition-colors"
+            >
+              CommitCraft·AI — commit message generator
+            </a>
           </div>
         </div>
       </div>
